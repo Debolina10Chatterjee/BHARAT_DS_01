@@ -33,7 +33,7 @@ The dataset consists of SMS messages labeled as spam or ham (non-spam). You can 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/sms-spam-classification.git
+https://github.com/Debolina10Chatterjee/BHARAT_DS_01.git
 ```
 
 2. Open and run the Colab Notebook "sms_spam_classification.ipynb" in Colab Notebook to execute the Python code cells and train the predictive models.
