@@ -36,7 +36,7 @@ The dataset consists of SMS messages labeled as spam or ham (non-spam). You can 
 https://github.com/Debolina10Chatterjee/BHARAT_DS_01.git
 ```
 
-2. Open and run the Colab Notebook "sms_spam_classification.ipynb" in Colab Notebook to execute the Python code cells and train the predictive models.
+2. Open and run the Colab Notebook "Email.ipynb" in Colab Notebook to execute the Python code cells and train the predictive models.
 
 3. Analyze the performance of different algorithms and choose the best model for deployment.
 
